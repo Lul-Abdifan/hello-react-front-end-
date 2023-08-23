@@ -1,4 +1,4 @@
-import React ,{ useEffect} from 'react'
+import { useEffect} from 'react'
 import { useSelector } from 'react-redux/es/hooks/useSelector'
 import { useDispatch } from 'react-redux'
 import { fetchrandommessage } from '../redux/messageSlice'
